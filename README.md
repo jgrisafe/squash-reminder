@@ -4,7 +4,7 @@ Squash Reminder is a Chrome extension that reminds you to squash the commits in 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/mk12/squash-reminder.git`.
+1. Clone the repository: `git clone https://github.com/jgrisafe/squash-reminder`.
 2. Navigate to chrome://extensions in your browser.
 3. Click the checkbox to enable developer mode.
 4. Choose "Load unpacked extension..."
